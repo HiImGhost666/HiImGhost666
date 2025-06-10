@@ -14,7 +14,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-## 💻 Skills y Herramientas
+## 💻 Skills y Conocimiento General
 
 | Área          | Tecnologías |
 |---------------|-------------|
