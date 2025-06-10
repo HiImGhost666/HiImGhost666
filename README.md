@@ -63,6 +63,6 @@
 <img src="https://github.com/HiImGhost666/HiImGhost666/blob/main/Gracias%20por%20visitar%20mi%20perfil.png" width="300" alt="Ilustración de Don Quijote" />  
 
 *"Llevo sin pagar impuestos desde 2021"*  
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<img src="https://github.com/HiImGhost666/HiImGhost666/blob/main/banner_footer.png">
 
 </div>
