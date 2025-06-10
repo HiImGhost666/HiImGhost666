@@ -26,7 +26,7 @@
 | **Sistemas Operativos** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 | **IA y Otras Herramientas** | ![ChatGPT](https://img.shields.io/badge/chatGPT-51786e?style=for-the-badge&logo=openai&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🔝 Repositorios destacados  
 
@@ -37,7 +37,7 @@
 
 
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 📊 Estadísticas de GitHub  
 
@@ -49,20 +49,21 @@
 ### 📌 Lenguajes más usados  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiImGhost666&layout=compact&theme=radical&hide_border=true)  
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 ## 🏆 Trofeos de GitHub  
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=HiImGhost666&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)  
 
----
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <div align="center">
   
 <img src="https://github.com/HiImGhost666/HiImGhost666/blob/main/Gracias%20por%20visitar%20mi%20perfil.png" width="300" alt="Ilustración de Don Quijote" />  
 
-*"Llevo sin pagar impuestos desde 2021"*  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&center=true&vCenter=true&width=435&lines=Llevo+sin+pagar+impuestos+desde+2021" alt="Typing SVG" /></a>
+
 <img src="https://github.com/HiImGhost666/HiImGhost666/blob/main/banner_footer.png">
 
 </div>
