@@ -30,6 +30,17 @@
 
 ---
 
+## 🔝 Repositorios destacados  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=scannerv4&theme=radical)](https://github.com/HiImGhost666/scannerv4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=SwitchIsland&theme=radical)](https://github.com/HiImGhost666/SwitchIsland) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=Tareas_Programacion&theme=radical)](https://github.com/HiImGhost666/Tareas_Programacion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=LeBaguettes&theme=radical)](https://github.com/HiImGhost666/LeBaguettes)
+
+
+
+---
+
 ## 📊 Estadísticas de GitHub  
 
 <div align="center">
@@ -48,13 +59,10 @@
 
 ---
 
-## 🔝 Repositorios destacados  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=scannerv4&theme=radical)](https://github.com/HiImGhost666/scannerv4)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=SwitchIsland&theme=radical)](https://github.com/HiImGhost666/SwitchIsland) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=Tareas_Programacion&theme=radical)](https://github.com/HiImGhost666/Tareas_Programacion)  
+<div align="center">
+  
+<img src="https://github.com/HiImGhost666/HiImGhost666/blob/main/Gracias%20por%20visitar%20mi%20perfil.png" width="300" alt="Ilustración de Don Quijote" />  
 
----
-
-
-✨ **¡Gracias por visitar mi perfil!** ✨  
+*"Llevo sin pagar impuestos desde 2021"*  
+</div>
