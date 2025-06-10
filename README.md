@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+  <img src="https://github.com/HiImGhost666/HiImGhost666/blob/main/banner.png">
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F73131&center=true&vCenter=true&width=600&lines=Hola%2C+soy+HiImGhost666;Soy+alumno+de+Desarollo+de+Aplicaciones+Web;Aprendiendo+cosas+nuevas+todos+los+d%C3%ADas;os.remove(%22C%3A%5CWindows%5CSystem32%22)" alt="Typing SVG" /></a>
 </div>
@@ -12,7 +12,6 @@
 🔹 **Enfoque práctico**: Disfruto experimentar y aplicar lo que aprendo en proyectos reales (Me ayuda ChatGPT).  
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 
 ## 💻 Skills y Conocimiento General
 
