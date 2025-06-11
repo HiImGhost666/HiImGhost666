@@ -46,7 +46,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HiImGhost666&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiImGhost666&theme=radical&hide_border=true" alt="Racha de contribuciones" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiImGhost666&theme=radical&hide_border=true" alt="Racha de contribuciones" width="50%" />
 </div>  
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> Lenguajes más usados  
