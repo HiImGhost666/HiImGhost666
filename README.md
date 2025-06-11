@@ -1,8 +1,12 @@
 <div align="center">
   <img src="https://github.com/HiImGhost666/HiImGhost666/blob/main/banner.png">
-
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F73131&center=true&vCenter=true&width=600&lines=Hola%2C+soy+HiImGhost666;Soy+alumno+de+Desarollo+de+Aplicaciones+Web;Aprendiendo+cosas+nuevas+todos+los+d%C3%ADas;os.remove(%22C%3A%5CWindows%5CSystem32%22)" alt="Typing SVG" /></a>
+  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="69" height="69" />
 </div>
+ <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F73131&center=true&vCenter=true&width=600&lines=Hola%2C+soy+HiImGhost666;Soy+alumno+de+Desarollo+de+Aplicaciones+Web;Aprendiendo+cosas+nuevas+todos+los+d%C3%ADas;os.remove(%22C%3A%5CWindows%5CSystem32%22)" alt="Typing SVG" /></a>
+</div>
+
 
 <!-- Línea divisora animada -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -13,7 +17,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 💻 Skills y Conocimiento General
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Skills y Conocimiento General
 
 | Área          | Tecnologías |
 |---------------|-------------|
@@ -28,7 +32,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 🔝 Repositorios destacados  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Top%20Arrow.png" alt="Top Arrow" width="25" height="25" /> Repositorios destacados  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=scannerv4&theme=radical)](https://github.com/HiImGhost666/scannerv4)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=SwitchIsland&theme=radical)](https://github.com/HiImGhost666/SwitchIsland) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=Tareas_Programacion&theme=radical)](https://github.com/HiImGhost666/Tareas_Programacion)
@@ -38,14 +42,14 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 📊 Estadísticas de GitHub  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Estadísticas de GitHub  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HiImGhost666&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de GitHub" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiImGhost666&theme=radical&hide_border=true" alt="Racha de contribuciones" width="48%" />
 </div>  
 
-### 📌 Lenguajes más usados  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> Lenguajes más usados  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiImGhost666&layout=compact&theme=radical&hide_border=true)  
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
