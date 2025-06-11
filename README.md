@@ -30,7 +30,6 @@
 
 ## 🔝 Repositorios destacados  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=scannerv4&theme=radical)](https://github.com/HiImGhost666/scannerv4)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=SwitchIsland&theme=radical)](https://github.com/HiImGhost666/SwitchIsland) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=Tareas_Programacion&theme=radical)](https://github.com/HiImGhost666/Tareas_Programacion)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=LeBaguettes&theme=radical)](https://github.com/HiImGhost666/LeBaguettes)
