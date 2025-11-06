@@ -2,7 +2,7 @@
   <img src="https://github.com/HiImGhost666/HiImGhost666/blob/main/banner.png">
   
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="69" height="69" />
+  <img src="dance.gif" alt="Waving Hand" width="200" height="200" />
 </div>
  <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F73131&center=true&vCenter=true&width=600&lines=Hola%2C+soy+HiImGhost666;Soy+alumno+de+Desarollo+de+Aplicaciones+Web;Aprendiendo+cosas+nuevas+todos+los+d%C3%ADas;os.remove(%22C%3A%5CWindows%5CSystem32%22)" alt="Typing SVG" /></a>
 </div>
