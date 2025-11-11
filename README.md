@@ -35,7 +35,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Top%20Arrow.png" alt="Top Arrow" width="25" height="25" /> Repositorios destacados  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=scannerv4&theme=radical)](https://github.com/HiImGhost666/scannerv4)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=SwitchIsland&theme=radical)](https://github.com/HiImGhost666/SwitchIsland) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=Tareas_Programacion&theme=radical)](https://github.com/HiImGhost666/Tareas_Programacion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=Programacion-Java&theme=radical)](https://github.com/HiImGhost666/Programacion-Java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=LeBaguettes&theme=radical)](https://github.com/HiImGhost666/LeBaguettes)
 
 
