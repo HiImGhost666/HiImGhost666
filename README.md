@@ -10,7 +10,7 @@
 <!-- TYPING SVG - líneas actualizadas -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hola%2C+soy+HiImGhost666+%F0%9F%91%BB;DAW+%7C+Java+%7C+JavaScript+%7C+PHP;Si+se+puede+romper%2C+seguramente+lo+voy+a+romper;os.remove(%22C%3A%5CWindows%5CSystem32%22);%2F%2F+TODO%3A+aprender+a+programar)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=HiImGhost666&color=00ff88&style=for-the-badge&label=VISITAS)](https://github.com/HiImGhost666)
+[![Profile Views](https://komarev.com/ghpvc/?username=HiImGhost666&color=ff0077&style=for-the-badge&label=VISITAS)](https://github.com/HiImGhost666)
 
 </div>
 
