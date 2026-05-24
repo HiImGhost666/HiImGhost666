@@ -67,7 +67,7 @@ $ cat about.txt
   
 <td width="50%" align="center">
 <a href="https://github.com/HiImGhost666/TestMaster">
-  <img src="" width="350" alt="TestMaster"/>
+  <img src="https://raw.githubusercontent.com/HiImGhost666/HiImGhost666/refs/heads/main/logo.svg" width="350" alt="TestMaster"/>
 </a>
 <p>Plataforma web para gestión y resolución de exámenes online, con panel de administración y corrección automática</p>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,vuejs,vite,mysql&theme=dark&perline=15" alt="My Skills" /></a>
