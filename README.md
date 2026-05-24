@@ -140,7 +140,6 @@ $ cat about.txt
 
 ```
 👻  Gracias por visitar mi perfil  👻
-💰  Llevo sin pagar impuestos desde 2021
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7700ff,50:00ccff,100:00ff88&height=100&section=footer" width="100%"/>
