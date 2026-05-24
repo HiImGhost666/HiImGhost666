@@ -60,50 +60,47 @@ $ cat about.txt
 </div>
 
 ---
-
 ## 🚀 Proyectos Destacados
-
 <div align="center">
 <table>
 <tr>
-<td width="50%">
-
-### 🔍 [ScannerV4](https://github.com/HiImGhost666/scannerv4)
-Herramienta de escaneo avanzada con interfaz
-
-[![ScannerV4](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=scannerv4&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ccff)](https://github.com/HiImGhost666/scannerv4)
-
+  
+<td width="50%" align="center">
+<a href="https://github.com/HiImGhost666/TestMaster">
+  <img src="" width="350" alt="TestMaster"/>
+</a>
+<p>Plataforma web para gestión y resolución de exámenes online, con panel de administración y corrección automática</p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,vuejs,vite,mysql&theme=dark&perline=15" alt="My Skills" /></a>
 </td>
-<td width="50%">
-
-### 🏝️ [Switch Island](https://github.com/HiImGhost666/SwitchIsland)
-Página web con juegos de Nintendo Switch
-
-[![SwitchIsland](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=SwitchIsland&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ccff)](https://github.com/HiImGhost666/SwitchIsland)
-
+  
+<td width="50%" align="center">
+<a href="https://github.com/HiImGhost666/Schedule-App">
+  <img src="https://raw.githubusercontent.com/HiImGhost666/Schedule-App/main/frontend/src/assets/Logo_Claro.webp" width="300" alt="Schedule App"/>
+</a>
+<p>Plataforma integral para la gestión, visualización y auditoría de turnos de guardia corporativos</p>
+<img src="https://skillicons.dev/icons?i=nodejs,react,ts,mysql,vite"/>
 </td>
 </tr>
 <tr>
-<td width="50%">
 
-### ☕ [Programación Java](https://github.com/HiImGhost666/Programacion-Java)
-Ejercicios y proyectos en Java, PHP y más
-
-[![Java](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=Programacion-Java&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ccff)](https://github.com/HiImGhost666/Programacion-Java)
-
+<td width="50%" align="center">
+<a href="https://github.com/HiImGhost666/Proveedorio">
+  <img src="https://raw.githubusercontent.com/HiImGhost666/Proveedorio/main/frontend/src/assets/ProveedoresLogo_Light.png" width="300" alt="Proveedorio"/>
+</a>
+<p>Plataforma enfocada en gestión de inventario, proveedores, monitoreo y seguridad de secretos</p>
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,docker,mysql,grafana,nginx"/>
 </td>
-<td width="50%">
 
-### 🥖 [Le Baguettes](https://github.com/HiImGhost666/LeBaguettes)
-Un montón de bocadillos girando (obra de arte)
-
-[![LeBaguettes](https://github-readme-stats.vercel.app/api/pin/?username=HiImGhost666&repo=LeBaguettes&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ccff)](https://github.com/HiImGhost666/LeBaguettes)
-
+<td width="50%" align="center">
+<a href="https://github.com/HiImGhost666/NetScan">
+  <img src="https://raw.githubusercontent.com/HiImGhost666/NetScan/main/miproyectored/gui/resources/logo.png" width="400" alt="NetScan"/>
+</a>
+<p>Solución integral para la gestión, monitorización y auditoría de seguridad de redes corporativas</p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark&perline=15"/>
 </td>
 </tr>
 </table>
 </div>
-
 ---
 
 ## 📊 Estadísticas
